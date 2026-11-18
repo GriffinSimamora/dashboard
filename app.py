@@ -33,7 +33,7 @@ menu_pilihan = st.sidebar.radio(
 
 # --- HALAMAN 1: BERANDA ---
 if menu_pilihan == "Beranda":
-    st.title("🌦️ Selamat Datang di Dashboard Prakiraan")
+    st.title("🌦️ Selamat Datang di Dashboard Cuaca Hidrometeorologi Basah")
     st.write("Silakan pilih menu di panel sebelah kiri untuk menampilkan informasi dari BMKG:")
     st.markdown(
         "- **Pertumbuhan Awan:** Peta prakiraan potensi pertumbuhan awan hujan.\n"
